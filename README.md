@@ -1,4 +1,4 @@
-# 📊 Friendship Paradox in Social Circles
+# Friendship Paradox in Social Circles
 
 A visual analytics dashboard built with Plotly Dash to explore the **Friendship Paradox** — the idea that *on average, your friends have more friends than you do* — using Facebook ego-network data. This paradox highlights how your friends are likely to have more friends than you.
 
@@ -6,7 +6,7 @@ We investigate how this paradox appears in different ego networks, visualize key
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 The **Friendship Paradox** is a well-known phenomenon in social networks. It emerges from the fact that high-degree nodes (very social users) are overrepresented in the neighbor lists of others, skewing the average.
 
@@ -19,13 +19,13 @@ In this project, we:
 
 ---
 
-## 📁 Dataset Used
+## Dataset Used
 
 We use the **Facebook Social Circles** dataset provided by the Stanford Network Analysis Project (SNAP).
 
-- 📄 Dataset: [`facebook.tar.gz`](https://snap.stanford.edu/data/ego-Facebook.html)
-- 👤 Each `.edges` file represents an ego network (i.e., a user and their friends).
-- 📊 Attributes analyzed: degree, average friend degree, paradox strength, centrality metrics, communities.
+- Dataset: [`facebook.tar.gz`](https://snap.stanford.edu/data/ego-Facebook.html)
+- Each `.edges` file represents an ego network (i.e., a user and their friends).
+- Attributes analyzed: degree, average friend degree, paradox strength, centrality metrics, communities.
 
 **Citation (if used in research):**
 If you use this dataset, please cite the following paper:
