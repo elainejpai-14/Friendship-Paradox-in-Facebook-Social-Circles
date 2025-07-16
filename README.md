@@ -107,7 +107,7 @@ Once deployed, Render will give you a public URL
 
 ## Screenshots / GIF
 
-## 🚀 Demo
-
+An Interactive vizualization of the loaded friendship network, where node size and color encode paradox strength and degree respectively. This helps explore node-level characteristics visually.<br>
 ![Vizualize the network](Vizualize%20Network.gif)<br>
-Visualizes the loaded friendship network interactively, where node size and color encode paradox strength and degree respectively. This helps explore node-level characteristics visually.
+A snip from the dashboard showing a plot of Paradox Strength vs the Degree <br>
+<img width="1679" height="481" alt="image" src="https://github.com/user-attachments/assets/a785fd03-c77d-4395-9ecb-01699a23bdd3" />
