@@ -33,9 +33,13 @@ If you use this dataset, please cite the following paper:
 > J. McAuley and J. Leskovec. *Learning to Discover Social Circles in Ego Networks*. In NIPS, 2012.  
 > [https://snap.stanford.edu/data/egonets-Facebook.html](https://snap.stanford.edu/data/egonets-Facebook.html)
 
+---
+
 ## Live Public Dashboard
 
 Explore the Live interactive Render dashboard here: [https://friendship-paradox-in-facebook-social.onrender.com/](https://friendship-paradox-in-facebook-social.onrender.com/)
+
+---
 
 ## Features of the Dashboard
 
@@ -48,6 +52,8 @@ Explore the Live interactive Render dashboard here: [https://friendship-paradox-
 - Scatter plot of degree vs paradox strength
 - Color-coded node classification (paradox vs non-paradox)
 
+---
+
 ## Technologies Used
 
 - `Python`
@@ -55,6 +61,8 @@ Explore the Live interactive Render dashboard here: [https://friendship-paradox-
 - `Dash`, `Dash Bootstrap Components`
 - `Google Colab` for data processing
 - `Render` for public deployment
+
+---
 
 ## How to Run
 
