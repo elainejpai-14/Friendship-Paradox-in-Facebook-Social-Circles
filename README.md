@@ -102,3 +102,7 @@ Go to [Render.com](https://render.com/) and sign up.
   - `render.yaml` – Optional but recommended
 4. Wait for Build & Access Your Public Link <br>
 Once deployed, Render will give you a public URL 
+
+---
+
+## Screenshots / GIF
