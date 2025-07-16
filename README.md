@@ -111,9 +111,15 @@ An Interactive vizualization of the loaded friendship network, where node size a
 ![Vizualize the network](Vizualize%20Network.gif)<br><br>
 A snip from the dashboard showing a plot of Paradox Strength vs the Degree for both paradox and non-paradox nodes.<br>
 <img width="1679" height="481" alt="image" src="https://github.com/user-attachments/assets/a785fd03-c77d-4395-9ecb-01699a23bdd3" /><br><br>
+
 The Green dots:
-- `true` are the nodes which nodes satisfy the Friendship Paradox: their friends, on average, have more friends than they do.<br>
-- most of these users have low degrees (between 1 and 20), but very high paradox strength values, sometimes over 50x.<br><br>
+true → Nodes where the Friendship Paradox holds: their friends, on average, have more friends than they do.
+
+Most of these users have low degrees (between 1 and 20), but very high paradox strength values, sometimes over 50×.
+
 The Purple dots:
-- `false` are the nodes which do not experience the paradox.<br>
-- these users tend to have higher degrees (more friends), meaning their own degree is closer to or exceeds that of their friends.
+false → Nodes where the Friendship Paradox does not hold.
+
+These users tend to have higher degrees (more friends), meaning their own degree is close to or exceeds that of their friends.
+
+
